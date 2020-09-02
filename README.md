@@ -12,5 +12,9 @@ Principais características:
 Integração contínua: melhorias avançadas e de fácil resolução alteração;
 Cross-plataforma: permite que os sistemas e softwares sejam compartilhados e utilizados em diferentes plataformas e sistemas operacionais;
 
+Flexibilidade: os softwares podem receber atualizações de diferentes formas, e ser acessado de qualquer lugar, já que são hospedados na nuvem;
+Desenvolvimento ágil: o desenvolvimento segue metodologias ágeis para entregas rápidas e contínuas, como SCRUM e KANBAN, XP;
+
 Liberdade para deploy: a equipe de desenvolvimento deve ser autônoma para realização de deploy nos ambientes de produção, homologação e desenvolvimento;
+
 
