@@ -17,4 +17,4 @@ Desenvolvimento ágil: o desenvolvimento segue metodologias ágeis para entregas
 
 Liberdade para deploy: a equipe de desenvolvimento deve ser autônoma para realização de deploy nos ambientes de produção, homologação e desenvolvimento;
 
-
+Gestão de releases: o versionamento das features através do Gitflow permite que correções e conflitos não resolvidos sejam resolvidos/evitados através do controle de versão.
